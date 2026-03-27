@@ -2,10 +2,11 @@
 name: Library-specific Bug Report
 about: Report a problem with this library that needs to be fixed.
 title: ''
-labels: bug, triage
+labels: bug
 assignees: ''
 
 ---
+
 <!-- PLEASE READ
 This form is for bug reports specific to this library.
 
@@ -37,4 +38,3 @@ identifiable information, including developer tokens, client IDs, customer IDs, 
 
  
 **Anything else we should know about your project / environment:**
-

@@ -1,11 +1,13 @@
 ---
 name: Library-specific Usage Question
-about: Ask a question about this library that is neither a bug report nor feature request.
+about: Ask a question about this library that is neither a bug report nor feature
+  request.
 title: ''
-labels: question, triage
+labels: question
 assignees: ''
 
 ---
+
 <!-- PLEASE READ
 This form is for usage questions specific to this library.
 
@@ -15,4 +17,3 @@ For troubleshooting tips, see: https://developers.google.com/google-ads/api/docs
 -->
 
 **What is your question?**
-

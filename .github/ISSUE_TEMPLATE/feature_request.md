@@ -1,25 +1,20 @@
 ---
-name: Library-specific Feature Request
-about: Suggest an idea to make this library better.
+name: Feature request
+about: Suggest an idea for this project
 title: ''
-labels: enhancement, triage
+labels: ''
 assignees: ''
 
 ---
 
-<!-- PLEASE READ
-Make sure you've carefully reviewed the documentation for this library to make
-sure your feature request is not already supported: https://developers.google.com/google-ads/api/docs/client-libs/java
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-For requests that are related to the Google Ads API itself and not specific to this library, please reach out to one of our support channels: https://developers.google.com/google-ads/api/support. 
--->
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-**Describe the problem you are trying to solve:**
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-**Describe the solution you'd like:**
-
-**Describe alternatives you've considered:**
-
-**Additional context:**
-<!-- Insert any other context or screenshots about the feature request here. -->
-
+**Additional context**
+Add any other context or screenshots about the feature request here.
